@@ -1,0 +1,9 @@
+button {
+  margin: 10px auto ;
+}
+
+.inputField {
+  display: block;
+  position: relative;
+  margin: 3px auto;
+}
